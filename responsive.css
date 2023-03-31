@@ -146,10 +146,6 @@
       color: white;
     } 
     
-    
-    
-    /*<<<<<<<<<<<<<<Contact Page >>>>>>>>>>>>>>  */
-
     .contact-main .contact-header h1 {
         font-size: 40px;
     }
@@ -186,13 +182,10 @@
 
     .contact-socials .form-header {
         font-size: 25px;
-    }
+    }    
+}
     
-    /*<<<<<<<<<<<<<< End Contact Page >>>>>>>>>>>>>>  */
-    
-    }
-    
-    /* <<<<<<<<<< 450px >>>>>>>>> */
+/* <<<<<<<<<< 450px >>>>>>>>> */
     
 @media (max-width: 450px) {
     .section-m {
